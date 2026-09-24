@@ -7,8 +7,8 @@
 Building data pipelines, cloud architectures and practical software solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-zseleme-181717?style=flat-square&logo=github)](https://github.com/zseleme)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaiden-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaiden-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/zseleme)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:zseleme@gmail.com)
 
 </div>
 
@@ -98,31 +98,3 @@ A privacy-focused Markdown editor running directly in the browser.
 - Client-side architecture
 
 `JavaScript` `PWA` `Cloudflare` `Web`
-
----
-
-### Altitude
-
-**[Altitude - Study Platform](https://github.com/zseleme/altitude-sistema-de-estudo)**
-
-A complete online learning platform developed with PHP,
-including administration, API and educational content management.
-
-`PHP` `MySQL` `Web Development`
-
----
-
-## Engineering Principles
-
-```text
-Reliable data > complicated data
-
-Automation > repetitive work
-
-Simple architecture > unnecessary complexity
-
-Observability > guessing
-
-Documentation > tribal knowledge
-
-Reproducibility > manual processes
